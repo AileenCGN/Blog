@@ -1,4 +1,10 @@
 {
-  "name": "Blog",
-  "version": "1.0"
+  "name": "blog",
+  "version": "1.0.0",
+  "author": {
+      "email": "hello@ghost.org"
+  },
+  "config": {
+      "posts_per_page": 6
+  }
 }
